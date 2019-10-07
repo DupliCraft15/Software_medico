@@ -2,10 +2,10 @@
 ---
 **ID :** 03 **Descripción :**  Una vez encontrado el usuario a partir de la función búsqueda, el sistema pide por teclado el dato a modificar, así como su contenido.
 
-**Actores principales :** Secretario  **Actores secundarios :**Paciente
+**Actores principales :** Secretario  **Actores secundarios :** Paciente
 
 **Precondiciones :**
-   *Se necesita haber llamado a la función búsqueda
+   * Se necesita haber llamado a la función búsqueda
 
 **Flujo principal :**
 
@@ -17,10 +17,10 @@
 6. El Sistema muestra por pantalla los datos modificados
 
 **Postcondiciones**
-   *Se muestran al Secretario las diferentes opciones relativas al paciente
+   * Se muestran al Secretario las diferentes opciones relativas al paciente
 
 **Flujos alternativos**
-   *Si el/los datos no es/son válido/s el sistema muestra un mensaje de error;
+   a. Si el/los datos no es/son válido/s el sistema muestra un mensaje de error;
 
 
 
