@@ -1,6 +1,6 @@
 # BUSCAR PACIENTE POR NOMBRE Y APELLIDO
 
-**ID**:04 **Descripción**:Se introduce el nombre y apellido del paciente que se busca y el sistema lo muestra.
+    **ID**:04 **Descripción**:Se introduce el nombre y apellido del paciente que se busca y el sistema lo muestra.
 
 **Actores principales**:Secretario **Actores secundarios**:Paciente.
 
@@ -10,14 +10,14 @@
 
 **Flujo principal**:
 
- 1.El secretario desea consultar los datos de un paciente
- 2.El secretario abre el cuadro de dialogo de busqueda en el menu principal
- 3.El secretario introduce el nombre y apellidos del paciente
- 4.El sistema muestra por pantalla los datos del paciente
+ 1. El secretario desea consultar los datos de un paciente
+ 2. El secretario abre el cuadro de dialogo de busqueda en el menu principal
+ 3. El secretario introduce el nombre y apellidos del paciente
+ 4. El sistema muestra por pantalla los datos del paciente
 
 **Postcondiciones**:
 
-    * Se muestran al administrador las distintas operaciones relativas al usuario
+   * Se muestran al administrador las distintas operaciones relativas al usuario
 
 **Flujos alternativos**:
 
