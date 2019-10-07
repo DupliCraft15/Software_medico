@@ -6,7 +6,7 @@
 
 **Precondiciones**:
 
-   -Ninguna
+   * Ninguna
 
 **Flujo principal**:
 
@@ -17,7 +17,7 @@
 
 **Postcondiciones**:
 
-    -Se muestran al administrador las distintas operaciones relativas al usuario.
+    * Se muestran al administrador las distintas operaciones relativas al usuario.
 
 **Flujos alternativos**:
 
