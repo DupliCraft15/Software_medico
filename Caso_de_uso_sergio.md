@@ -1,6 +1,6 @@
 # Añadir nuevo usuario
 ---
-**ID**:04 **Descripción**:Se añade un nuevo usuario con todos sus datos(Nombre, Apellido, Dirección, etc).
+   **ID**:04 **Descripción**:Se añade un nuevo usuario con todos sus datos(Nombre, Apellido, Dirección, etc).  
 
 **Actores principales**:Secretario **Actores secundarios**:Paciente
 
