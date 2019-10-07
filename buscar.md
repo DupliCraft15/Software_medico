@@ -1,8 +1,8 @@
 # BUSCAR PACIENTE POR NOMBRE Y APELLIDO
 ---
-**ID**:04 **Descripción**:Se introduce el nombre y apellido del paciente que se busca y el sistema lo muestra.
+**ID**: 01 **Descripción**: Se introduce el nombre y apellido del paciente que se busca y el sistema lo muestra.
 
-**Actores principales**:Secretario **Actores secundarios**:Paciente.
+**Actores principales**: Secretario **Actores secundarios**:Paciente.
 
 **Precondiciones**:
 
@@ -21,6 +21,6 @@
 
 **Flujos alternativos**:
 
- a.Si el usuario no existe, se muestra un mensaje de error.
+ 4.a Si el usuario no existe, se muestra un mensaje de error.
 
 
