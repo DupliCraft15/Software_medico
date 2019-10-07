@@ -20,6 +20,7 @@
    * Se muestran al Secretario las diferentes opciones relativas al paciente
 
 **Flujos alternativos**
+
    a. Si el/los datos no es/son válido/s el sistema muestra un mensaje de error;
 
 
