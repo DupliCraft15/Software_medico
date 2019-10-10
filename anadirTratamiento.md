@@ -20,6 +20,6 @@
 
 **Flujos alternativos**:
 
- 2.a Si el usuario no existe, se muestra un mensaje de error.
+ 2.a Si el paciente no existe, se muestra un mensaje de error.
 
 
