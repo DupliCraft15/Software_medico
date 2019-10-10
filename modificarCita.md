@@ -22,7 +22,7 @@
 
 **Flujos alternativos**:
 
- 3.a Si el usuario o la cita no existen se muestra un mensaje de error.
+ 3.a Si el paciente o la cita no existen se muestra un mensaje de error.
  6.a Si la fecha introducida no es valida se muestra un mensaje de error
 
 
