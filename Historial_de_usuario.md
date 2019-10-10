@@ -33,3 +33,43 @@
 	* Si el nombre o la fecha no existe, el programa tiene que decir el error y salirse.
 	* Se tiene que mostrar todos los datos de la cita.
 	* La opcion buscar cita debe de devolverte al menú cuando finalize.
+
+---
+---
+
+**ID**:07 **Nombre**:Cancelar cita
+
+**Prioridad** *(de 1 a 10)*: 6 **Puntos estimado**: 2 **Iteracion**: 1
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero cancelar una cita que se encuentra programada en la base de datos de citas*  
+
+**Validación**
+
+	* Si el administrador intenta entrar en cancelar cita y no hay citas para el futuro, el programa debe de decirlo y salir.
+	* No se debe de poder cancelar citas que ya han sido realizadas.
+	* Una vez eliminada, no debe de quedar rastro de esta en la base de datos de citas.
+	* La opcion cancelar cita debe de devolverte al menú cuando finalize.
+
+---
+---
+
+**ID**:08 **Nombre**:Consultar Historial Medico.
+
+**Prioridad** *(de 1 a 10)*: 8 **Puntos estimado**: 8 **Iteracion**: 1
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero consultar el historial de cada paciente introduciendo el DNI en el cual se muestre todos los datos acerca de dicha persona*  
+
+**Validación**
+
+	* El DNI introducido debe de corresponder a un paciente registrado anteriormente.
+	* Si el DNI es erroneo, el programa se lo comunica al administrador y se sale.
+	* Debe de aparecer todos los datos acerca del paciente.
+	* La opcion Consultar Historial Medico debe de devolverte al menú cuando finalize.
