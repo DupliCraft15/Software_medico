@@ -73,3 +73,122 @@
 	* Si el DNI es erroneo, el programa se lo comunica al administrador y se sale.
 	* Debe de aparecer todos los datos acerca del paciente.
 	* La opcion Consultar Historial Medico debe de devolverte al menú cuando finalize.
+	
+---
+---
+
+**ID**:40 **Nombre**:Añadir un tratamiento a un paciente
+
+**Prioridad** *(de 1 a 10)*: 6 **Puntos estimado**: 5 **Iteracion**: 1-2
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero añadir un tratamiento a un paciente que ya esta registrado en la base de datos*  
+
+**Validación**
+
+	* El paciente debe de estar registrado con anterioridad.
+	* El tratamiento debe de incluirse a la base de datos con todos los campos rellenos.
+	* El tratamiento tambien se incluye en la base de dato del historial medico.
+	* La opcion Añadir un tratamiento a un paciente debe de devolverte al menú cuando finalize.
+
+---
+---
+
+**ID**:69 **Nombre**:Borrar Tratamiento
+
+**Prioridad** *(de 1 a 10)*: 5 **Puntos estimado**: 5 **Iteracion**: 1-2
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero borrar un tratamiento a un paciente que ya esta registrado en la base de datos*  
+
+**Validación**
+
+	* El paciente debe de estar registrado con anterioridad.
+	* El paciente debe de tener al menos un tratamiento.
+	* El tratamiento debe de eliminarse sin dejar rastro en la base de datos de tratemientos con todos los campos rellenos.
+	* La opcion Borrar Tratamiento a un paciente debe de devolverte al menú cuando finalize.
+
+---
+---
+
+**ID**:01 **Nombre**:Buscar Paciente por nombre y apellidos
+
+**Prioridad** *(de 1 a 10)*: 10 **Puntos estimado**: 10 **Iteracion**: 10+
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero buscar un paciente en la base de datos y acceder a toda la informacion relacionada a el*  
+
+**Validación**
+
+	* El paciente debe de estar registrado con anterioridad.
+	* Este debe de mostrar sus citas,tratamientos y datos.
+	* El programa debe de acceder de forma indirecta a esta funcion sin la necesidad que el administrador seleccione una funcion que la necesite.
+	* La opcion Buscar Paciente por nombre y apellidos debe de devolverte al menú cuando finalize.
+	
+---
+---
+
+**ID**:30 **Nombre**:Mostrar Agenda
+
+**Prioridad** *(de 1 a 10)*: 8 **Puntos estimado**: 10 **Iteracion**: 6-7
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero ver la agenda donde se muestra las citas que tengo*  
+
+**Validación**
+
+	* Esta funcion se ejecuta automaticamente cuando se enciende el programa.
+	* Muestra solo las citas futuras.
+	* Esta funcion se conecta con la base de datos de citas.
+	* La opcion Mostrar Agenda debe de devolverte al menú cuando finalize.
+
+---
+---
+
+**ID**:25 **Nombre**:Modificar Tratamiento
+
+**Prioridad** *(de 1 a 10)*: 6 **Puntos estimado**: 2 **Iteracion**: 1
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero modificar un tratamiento que le corresponde a un paciente*  
+
+**Validación**
+
+	* El tratamiento a modificar debe de existir en la base de datos.
+	* Se debe de rellenar todos los datos para que se modifique el tratamiento.
+	* La opcion Modificar Tratamiento debe de devolverte al menú cuando finalize.
+
+---
+---
+
+**ID**:20 **Nombre**:Modificar Cita
+
+**Prioridad** *(de 1 a 10)*: 5 **Puntos estimado**: 1 **Iteracion**: 1
+
+**Responsable**: *Sergey Beryuza*
+
+**Descripción**
+
+  *Como administrador quiero modificar una cita ya creada anteriormente*  
+
+**Validación**
+
+	* La cita a modificar debe de existir en la base de datos.
+	* Se debe de rellenar todos los datos para que se modifique la cita.
+	* La cita solo se puede modificar si es para el futuro,es decir, si ya no se ha pasado la fecha de esta.
+	* La opcion Modificar Cita debe de devolverte al menú cuando finalize.
