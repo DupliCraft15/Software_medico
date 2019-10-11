@@ -1,6 +1,6 @@
 # BORRA UN TRATAMIENTO
 ---
-**ID**: 69 **Descripción**: Elimina el tratamiento de un paciente buscado anteriormente.
+**ID**: 12 **Descripción**: Elimina el tratamiento de un paciente buscado anteriormente.
 
 **Actores principales**: Secretario **Actores secundarios**:Paciente.
 
