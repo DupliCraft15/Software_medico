@@ -1,6 +1,6 @@
 # MODIFICAR UNA CITA YA CREADA
 ---
-**ID**: 20 **Descripción**: Una vez encontrada la cita a partir de la función buscarCita, el sistema pide por teclado una fecha y hora para actualizar la cita.
+**ID**: 13 **Descripción**: Una vez encontrada la cita a partir de la función buscarCita, el sistema pide por teclado una fecha y hora para actualizar la cita.
 
 **Actores principales**: Secretario **Actores secundarios**:Paciente.
 
