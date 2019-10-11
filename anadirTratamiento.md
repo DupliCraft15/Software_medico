@@ -1,6 +1,6 @@
 # AÑADIR TRATAMIENTO A UN PACIENTE
 ---
-**ID**: 40 **Descripción**: Tras buscar un paciente podemos añadirle un tratamiento
+**ID**: 06 **Descripción**: Tras buscar un paciente podemos añadirle un tratamiento
 **Actores principales**: Secretario **Actores secundarios**:Paciente.
 
 **Precondiciones**:
