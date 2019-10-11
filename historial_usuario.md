@@ -17,7 +17,7 @@
 ---
 
 
-**ID**:05 **Nombre**:Borrar los datos de un Paciente
+**ID**:04 **Nombre**:Borrar los datos de un Paciente
 
 **Prioridad** *(de 1 a 10)*: 9 **Puntos estimado**: 6 **Iteracion**: 1
 
@@ -35,7 +35,7 @@
 
 ---
 
-**ID**:06 **Nombre**:Añadir una nueva cita
+**ID**:05 **Nombre**:Añadir una nueva cita
 
 **Prioridad** *(de 1 a 10)*: 7 **Puntos estimado**: 5 **Iteracion**: 1
 
