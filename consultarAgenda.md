@@ -1,6 +1,6 @@
 # MOSTRAR AGENDA
 ---
-**ID**: 30 **Descripción**: Se introduce una fecha y aparecen todas las citas planeadas.
+**ID**: 07 **Descripción**: Se introduce una fecha y aparecen todas las citas planeadas.
 
 **Actores principales**: Secretario **Actores secundarios**:Paciente.
 
