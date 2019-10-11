@@ -1,6 +1,6 @@
 # MODIFICAR UN TRATAMIENTO
 ---
-**ID**: 25 **Descripción**: Modifica el tratamiento de un paciente buscado anteriormente.
+**ID**: 14 **Descripción**: Modifica el tratamiento de un paciente buscado anteriormente.
 **Actores principales**: Secretario **Actores secundarios**:Paciente.
 
 **Precondiciones**:
